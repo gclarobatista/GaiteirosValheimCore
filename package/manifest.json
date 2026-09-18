@@ -1,6 +1,6 @@
 {
   "name": "GateirosValheimCore",
-  "version_number": "0.1.0",
+  "version_number": "0.1.1",
   "website_url": "https://github.com/gclarobatista/GaiteirosValheimCore",
   "description": "Required client compatibility baseline for the Gateiros Valheim server.",
   "dependencies": [

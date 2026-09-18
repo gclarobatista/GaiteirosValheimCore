@@ -1,0 +1,23 @@
+{
+  "name": "GateirosValheimCore",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/gclarobatista/GaiteirosValheimCore",
+  "description": "Required client compatibility baseline for the Gateiros Valheim server.",
+  "dependencies": [
+    "ValheimModding-Jotunn-2.30.1",
+    "shudnal-ConditionalConfigSync-1.0.8",
+    "shudnal-LongshipUpgrades-1.0.20",
+    "Advize-PlantEverything-1.21.2",
+    "Azumatt-AAA_Crafting-2.1.8",
+    "Azumatt-AzuCraftyBoxes-1.8.19",
+    "Azumatt-AzuExtendedPlayerInventory-2.4.14",
+    "Azumatt-PetPantry-1.0.6",
+    "blacks7ar-VikingsDoSwim-1.4.2",
+    "blacks7ar-WieldEquipmentWhileSwimming-1.1.4",
+    "RustyMods-Seasonality-3.8.3",
+    "southsil-SouthsilArmor-3.1.9",
+    "TastyChickenLegs-AutomaticFuel-1.5.1",
+    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15",
+    "SpikeHimself-XPortal-1.2.25"
+  ]
+}

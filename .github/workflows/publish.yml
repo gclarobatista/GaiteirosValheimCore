@@ -1,0 +1,30 @@
+name: Publish Thunderstore modpack
+
+on:
+  push:
+    tags:
+      - '*'
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build package archive
+        run: python3 build_package.py
+      - name: Upload to Thunderstore
+        uses: GreenTF/upload-thunderstore-package@v4.3
+        with:
+          token: ${{ secrets.THUNDERSTORE_TOKEN }}
+          namespace: Gaiteiros
+          name: GateirosValheimCore
+          version: ${{ github.ref_name }}
+          description: Required client compatibility baseline for the Gateiros Valheim server.
+          community: valheim
+          repo: thunderstore.io
+          categories: modpacks
+          website: https://github.com/gclarobatista/GaiteirosValheimCore
+          file: dist/GateirosValheimCore-${{ github.ref_name }}.zip

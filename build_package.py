@@ -14,5 +14,9 @@ archive.parent.mkdir(exist_ok=True)
 with ZipFile(archive, "w", ZIP_DEFLATED) as output:
     for filename in ("manifest.json", "README.md", "CHANGELOG.md", "icon.png"):
         output.write(package / filename, filename)
+    output.write(
+        package / "BepInEx/config/eu.mydayyy.plugins.serversidemap.cfg",
+        "BepInEx/config/eu.mydayyy.plugins.serversidemap.cfg",
+    )
 
 print(archive)

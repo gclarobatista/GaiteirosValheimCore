@@ -1,6 +1,6 @@
 {
   "name": "GateirosValheimCore",
-  "version_number": "0.1.2",
+  "version_number": "0.2.0",
   "website_url": "https://github.com/gclarobatista/GaiteirosValheimCore",
   "description": "Required client compatibility baseline for the Gateiros Valheim server.",
   "dependencies": [
@@ -11,6 +11,7 @@
     "Azumatt-AAA_Crafting-2.1.8",
     "Azumatt-AzuCraftyBoxes-1.8.19",
     "Azumatt-AzuExtendedPlayerInventory-2.4.14",
+    "Azumatt-AzuContainerSizes-1.1.5",
     "Azumatt-PetPantry-1.0.6",
     "blacks7ar-VikingsDoSwim-1.4.2",
     "blacks7ar-WieldEquipmentWhileSwimming-1.1.4",

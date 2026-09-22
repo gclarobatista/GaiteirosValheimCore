@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.0
+
+- Add AzuContainerSizes 1.1.5, required for doubled land-chest slots on the server.
+
 ## 0.1.2
 
 - Replace the package icon.

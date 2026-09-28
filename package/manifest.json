@@ -1,13 +1,13 @@
 {
   "name": "GateirosValheimCore",
-  "version_number": "0.3.0",
+  "version_number": "0.3.1",
   "website_url": "https://github.com/gclarobatista/GaiteirosValheimCore",
   "description": "Required client compatibility baseline for the Gateiros Valheim server.",
   "dependencies": [
-    "ValheimModding-Jotunn-2.30.1",
-    "shudnal-ConditionalConfigSync-1.0.8",
-    "shudnal-LongshipUpgrades-1.0.20",
-    "Advize-PlantEverything-1.21.2",
+    "ValheimModding-Jotunn-2.30.2",
+    "shudnal-ConditionalConfigSync-1.0.9",
+    "shudnal-LongshipUpgrades-1.0.23",
+    "Advize-PlantEverything-1.21.3",
     "Azumatt-AAA_Crafting-2.1.8",
     "Azumatt-AzuCraftyBoxes-1.8.19",
     "Azumatt-AzuExtendedPlayerInventory-2.4.14",

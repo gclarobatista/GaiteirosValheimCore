@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.1
+
+- Update PlantEverything 1.21.2 → 1.21.3.
+- Update Jotunn 2.30.1 → 2.30.2.
+- Update LongshipUpgrades 1.0.20 → 1.0.23.
+- Update ConditionalConfigSync 1.0.8 → 1.0.9.
+
 ## 0.3.0
 
 - Add AzuContainerSizes 1.1.5, required for doubled land-chest slots on the server.

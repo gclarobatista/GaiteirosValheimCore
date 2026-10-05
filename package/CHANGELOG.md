@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.2
+
+- Update ConditionalConfigSync 1.0.9 → 1.0.10.
+- Update SouthsilArmor 3.1.9 → 3.2.0.
+
 ## 0.3.1
 
 - Update PlantEverything 1.21.2 → 1.21.3.

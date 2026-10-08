@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.3
+
+- Add YouAreNotWorthy 1.0.9.
+
 ## 0.3.2
 
 - Update ConditionalConfigSync 1.0.9 → 1.0.10.

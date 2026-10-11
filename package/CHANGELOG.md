@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.4
+
+- Update SouthsilArmor 3.2.0 → 3.2.1.
+- Update XPortal 1.2.25 → 1.2.26.
+
 ## 0.3.3
 
 - Add YouAreNotWorthy 1.0.9.

@@ -1,6 +1,6 @@
 {
   "name": "GateirosValheimCore",
-  "version_number": "0.3.3",
+  "version_number": "0.3.4",
   "website_url": "https://github.com/gclarobatista/GaiteirosValheimCore",
   "description": "Required client compatibility baseline for the Gateiros Valheim server.",
   "dependencies": [
@@ -17,10 +17,10 @@
     "blacks7ar-VikingsDoSwim-1.4.2",
     "blacks7ar-WieldEquipmentWhileSwimming-1.1.4",
     "RustyMods-Seasonality-3.8.3",
-    "southsil-SouthsilArmor-3.2.0",
+    "southsil-SouthsilArmor-3.2.1",
     "TastyChickenLegs-AutomaticFuel-1.5.1",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15",
-    "SpikeHimself-XPortal-1.2.25",
+    "SpikeHimself-XPortal-1.2.26",
     "sighsorry-YouAreNotWorthy-1.0.9"
   ]
 }

@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.5
+
+- Update PlantEverything 1.21.3 → 1.21.4.
+- Update ConditionalConfigSync 1.0.10 → 1.0.11.
+- Update YouAreNotWorthy 1.0.9 → 1.0.10.
+
 ## 0.3.4
 
 - Update SouthsilArmor 3.2.0 → 3.2.1.

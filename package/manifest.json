@@ -1,6 +1,6 @@
 {
   "name": "GateirosValheimCore",
-  "version_number": "0.3.5",
+  "version_number": "0.3.6",
   "website_url": "https://github.com/gclarobatista/GaiteirosValheimCore",
   "description": "Required client compatibility baseline for the Gateiros Valheim server.",
   "dependencies": [
@@ -21,6 +21,7 @@
     "TastyChickenLegs-AutomaticFuel-1.5.1",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.15",
     "SpikeHimself-XPortal-1.2.26",
-    "sighsorry-YouAreNotWorthy-1.0.10"
+    "sighsorry-YouAreNotWorthy-1.0.10",
+    "OdinPlus-TeleportCreatures-0.3.3"
   ]
 }

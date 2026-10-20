@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.6
+
+- Add TeleportCreatures 0.3.3.
+
 ## 0.3.5
 
 - Update PlantEverything 1.21.3 → 1.21.4.
